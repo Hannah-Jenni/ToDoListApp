@@ -1,24 +1,13 @@
 # todolistapp
 
-## Project setup
-```
+## Server present in folder 'server'
+
+cd server
+node server.js 
+
+## Web App setup
+
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Launch http://localhost:8080/ to view the Web App
